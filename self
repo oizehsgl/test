@@ -7,3 +7,4 @@ git status
 git log
 git diff --cached
 git diff
+git commit
